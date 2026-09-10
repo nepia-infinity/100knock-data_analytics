@@ -3,3 +3,13 @@
 ```PowerShell
 ni .gitignore -ItemType File
 ```
+
+## Gitリポジトリとして初期化
+```
+git init
+```
+
+## ファイルを追跡対象に追加
+```
+git add .
+```
